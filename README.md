@@ -12,7 +12,7 @@ npm start
 ```
 
 ## Django 
-### Sql Injection
+### SQL Injection
 Per il backend
 ```
 docker-compose up -d
