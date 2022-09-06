@@ -23,3 +23,8 @@ Per il frontend
 ```
 npm start
 ```
+##
+Per il browser usare
+```
+chromium-browser --disable-web-security --user-data-dir="[some directory here]"
+```
